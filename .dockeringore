@@ -1,3 +1,7 @@
 Dockerfile
 venv
+<<<<<<< HEAD
 __pycache__
+=======
+__pycache__
+>>>>>>> a7dae716e99615238a6cbc476ee720078ac83bf1
